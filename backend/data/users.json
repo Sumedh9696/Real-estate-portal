@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Administrator",
+    "email": "admin@realestate.com",
+    "passwordHash": "$2a$10$mYLn48RkzhP21HBsqEq9qO8LwtkW4tB./5w966EcTyEDS2UedKgcG",
+    "role": "admin",
+    "createdAt": "2026-07-26T16:35:40.545Z"
+  }
+]

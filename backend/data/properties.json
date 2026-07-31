@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "title": "Modern 3BHK Apartment in City Center",
+    "description": "A beautifully designed 3BHK apartment with modern amenities, spacious rooms, and a stunning city view. Close to schools, hospitals, and shopping malls.",
+    "price": 8500000,
+    "listingType": "sale",
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1450,
+    "city": "Mumbai",
+    "location": "Andheri West, Mumbai",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Rajesh Sharma", "phone": "+91 98765 43210", "email": "rajesh.sharma@example.com" },
+    "featured": true,
+    "createdAt": "2026-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Luxury Villa with Private Pool",
+    "description": "Exquisite 5-bedroom villa set on a sprawling plot with a private swimming pool, landscaped garden, and premium interiors.",
+    "price": 45000000,
+    "listingType": "sale",
+    "propertyType": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 4200,
+    "city": "Goa",
+    "location": "Candolim, North Goa",
+    "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Priya Menon", "phone": "+91 91234 56780", "email": "priya.menon@example.com" },
+    "featured": true,
+    "createdAt": "2026-06-03T10:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Cozy 2BHK for Rent Near Metro",
+    "description": "Well-maintained 2BHK flat available for rent, just 5 minutes walk from the metro station. Ideal for small families or working professionals.",
+    "price": 28000,
+    "listingType": "rent",
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 950,
+    "city": "Delhi",
+    "location": "Rohini, Delhi",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Amit Verma", "phone": "+91 99887 76655", "email": "amit.verma@example.com" },
+    "featured": false,
+    "createdAt": "2026-06-05T10:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "Independent House with Garden",
+    "description": "Spacious independent house with a private garden, 4 bedrooms, and ample parking space. Located in a quiet residential neighborhood.",
+    "price": 12500000,
+    "listingType": "sale",
+    "propertyType": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2400,
+    "city": "Pune",
+    "location": "Kothrud, Pune",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Sunita Patil", "phone": "+91 90909 80808", "email": "sunita.patil@example.com" },
+    "featured": false,
+    "createdAt": "2026-06-08T10:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "Commercial Plot on Highway",
+    "description": "Prime commercial plot located directly on the national highway with excellent visibility and access. Ideal for showroom or warehouse.",
+    "price": 32000000,
+    "listingType": "sale",
+    "propertyType": "Plot",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "area": 8000,
+    "city": "Ahmedabad",
+    "location": "SG Highway, Ahmedabad",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Kiran Shah", "phone": "+91 98123 45670", "email": "kiran.shah@example.com" },
+    "featured": false,
+    "createdAt": "2026-06-10T10:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "title": "Sea-facing 1BHK Studio Apartment",
+    "description": "Compact and elegant 1BHK studio apartment with breathtaking sea views. Fully furnished and ready to move in.",
+    "price": 18000,
+    "listingType": "rent",
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 600,
+    "city": "Mumbai",
+    "location": "Bandra West, Mumbai",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Neha Kapoor", "phone": "+91 97654 32109", "email": "neha.kapoor@example.com" },
+    "featured": true,
+    "createdAt": "2026-06-12T10:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "title": "Elegant 4BHK Penthouse",
+    "description": "Ultra-luxury penthouse with panoramic skyline views, private terrace, and premium fittings throughout. A true statement of prestige.",
+    "price": 65000000,
+    "listingType": "sale",
+    "propertyType": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 3800,
+    "city": "Bengaluru",
+    "location": "Indiranagar, Bengaluru",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Vikram Rao", "phone": "+91 90000 11223", "email": "vikram.rao@example.com" },
+    "featured": true,
+    "createdAt": "2026-06-15T10:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "title": "Affordable 2BHK for First-time Buyers",
+    "description": "Budget-friendly 2BHK apartment perfect for first-time home buyers. Located in a developing area with great future potential.",
+    "price": 4200000,
+    "listingType": "sale",
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 850,
+    "city": "Nagpur",
+    "location": "Manish Nagar, Nagpur",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Deepak Joshi", "phone": "+91 96543 21098", "email": "deepak.joshi@example.com" },
+    "featured": false,
+    "createdAt": "2026-06-18T10:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "title": "3BHK Row House for Rent",
+    "description": "Spacious row house with a small backyard, modular kitchen, and covered parking. Available for immediate rent in a gated community.",
+    "price": 35000,
+    "listingType": "rent",
+    "propertyType": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 1800,
+    "city": "Pune",
+    "location": "Wakad, Pune",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop"
+    ],
+    "owner": { "name": "Anjali Deshmukh", "phone": "+91 95432 10987", "email": "anjali.deshmukh@example.com" },
+    "featured": false,
+    "createdAt": "2026-06-20T10:00:00.000Z"
+  }
+]
