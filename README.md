@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EstateNest — Real Estate Portal
 
 A complete, professional full-stack Real Estate Portal built with **React (Vite + Tailwind CSS)** on the frontend and **Node.js + Express** on the backend.
@@ -105,3 +106,7 @@ Serve the `dist` folder with any static host (Nginx, Vercel, Netlify, etc.), and
 ---
 
 Built with ❤️ — fully tested end-to-end (backend API smoke-tested, frontend production build verified with zero errors).
+=======
+# Real-estate-portal
+the new age real estate portal fully functional 
+>>>>>>> e14a9a03f4e1da0efd42807577e2154117ff2126
